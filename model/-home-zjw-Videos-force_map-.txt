@@ -1,0 +1,1 @@
+/home/zjw/Videos/force_map/inference_mask.py
